@@ -47,5 +47,6 @@ class Application {
         System.out.println("First: " + c2.getValueA());
         System.out.println("Second: " + c2.getValueB());
         System.out.println("The result is: " + c2.doSubtraction());
+        System.out.println("\n");
     }
 }
